@@ -10,18 +10,18 @@
 
 ## 955 的公司名单
 
-* Google
-* Microsoft
-* Intel
-* IBM
-* EMC
-* Oracle
 * Cisco
-* SAP
+* eBay
+* EMC
 * Ericsson
+* Google
 * HP
 * HSBC
-* eBay
+* IBM
+* Intel
+* Microsoft
+* Oracle
+* SAP
 * Splunk
 * WeWork
 * 酷安
