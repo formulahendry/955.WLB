@@ -24,6 +24,9 @@
 * eBay
 * Splunk
 * WeWork
+* Udacity
+* Synopsys
+* SecondSpectrum
 
 ## 说明
 
