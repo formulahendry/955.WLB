@@ -4,7 +4,7 @@
 
 996 Work system: that is, 9 am every day, and work until 9 o'clock in the evening. Work 6 days a week.
 
-955 Work system: that is, 9 am every day, until work, until 5 o'clock in the evening. Work 5 days a week.
+955 Work system: that is, 9 am every day, and work until 5 o'clock in the evening. Work 5 days a week.
 
 955.WLB: Work 955, work life balance.
 
