@@ -28,6 +28,7 @@
 * Splunk - Shanghai
 * ThoughtWorks - Xi'an/Beijing/Shenzhen/Chengdu/Wuhan/Shanghai
 * WeWork - Shanghai
+* TrendMicro - Nanjing
 
 Go to [vote_for_995_companies.md](./vote_for_995_companies.md) to see full list.
 
