@@ -11,7 +11,7 @@
 ## 955 的公司名单
 
 * Cisco - 北京/上海/杭州/苏州
-* coolapk (酷安) - 深圳
+* coolapk (酷安) - 北京/深圳
 * eBay - 上海
 * EMC - 上海
 * Ericsson - 上海
@@ -23,6 +23,7 @@
 * LeetCode - 上海
 * Microsoft - 北京/上海/苏州
 * Oracle - 上海
+* RingCentral - 厦门
 * SAP - 上海
 * Splunk - 上海
 * ThoughtWorks - 西安/北京/深圳/成都/武汉/上海

@@ -11,7 +11,7 @@
 ## 955 Companies List
 
 * Cisco - Beijing/Shanghai/Hangzhou/Suzhou
-* coolapk (酷安) - Shenzhen
+* coolapk (酷安) - Beijing/Shenzhen
 * eBay - Shanghai
 * EMC - Shanghai
 * Ericsson - Shanghai
@@ -23,6 +23,7 @@
 * LeetCode - Shanghai
 * Microsoft - Beijing/Shanghai/Suzhou
 * Oracle - Shanghai
+* RingCentral - Xiamen
 * SAP - Shanghai
 * Splunk - Shanghai
 * ThoughtWorks - Xi'an/Beijing/Shenzhen/Chengdu/Wuhan/Shanghai
