@@ -10,7 +10,9 @@
 
 ## 955 的公司名单
 
+* Amazon
 * Cisco
+* ElasticSearch
 * eBay
 * EMC
 * Ericsson
