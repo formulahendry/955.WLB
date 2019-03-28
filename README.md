@@ -24,7 +24,7 @@
 * eBay
 * Splunk
 * WeWork
-* Coolapk
+* 酷安
 
 ## 说明
 
