@@ -25,7 +25,7 @@
 * Splunk
 * WeWork
 
-完整名单见[vote_for_995_companies.md](https://github.com/formulahendry/955.WLB/blob/master/vote_for_995_companies.md)
+完整名单见 [vote_for_995_companies.md](./vote_for_995_companies.md)
 
 ## 说明
 
