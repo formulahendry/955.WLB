@@ -10,20 +10,23 @@
 
 ## 955 的公司名单
 
-* Cisco
-* eBay
-* EMC
-* Ericsson
-* Google
-* HP
-* HSBC
-* IBM
-* Intel
-* Microsoft
-* Oracle
-* SAP
-* Splunk
-* WeWork
+* Cisco - 北京/上海/杭州/苏州
+* coolapk (酷安) - 深圳
+* eBay - 上海
+* EMC - 上海
+* Ericsson - 上海
+* Google - 北京/上海
+* HP - 上海
+* HSBC - 上海
+* IBM - 上海
+* Intel - 上海
+* LeetCode - 上海
+* Microsoft - 北京/上海/苏州
+* Oracle - 上海
+* SAP - 上海
+* Splunk - 上海
+* ThoughtWorks - 西安/北京/深圳/成都/武汉/上海
+* WeWork - 上海
 
 完整名单见 [vote_for_995_companies.md](./vote_for_995_companies.md)
 
@@ -33,6 +36,6 @@
 
 ## 添加公司
 
-请点击下面的链接，投票或添加新公司，我会统一处理。添加新公司请注明工作地点。如果是国内公司，请加上公司中文名（比如：`Xiaomi (小米)`），或直接用中文。
+请点击下面的链接，投票或添加新公司，我会统一处理。添加新公司请注明工作地点。如果是国内公司，请加上公司中文名（比如：`Xiaomi (小米)`）。
 
 [![Feature Requests](https://cloud.githubusercontent.com/assets/390379/10127973/045b3a96-6560-11e5-9b20-31a2032956b2.png)](http://feathub.com/formulahendry/955.WLB)
