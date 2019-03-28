@@ -23,10 +23,10 @@
 * HSBC
 * eBay
 * Splunk
-* WeWork
-* Udacity
 * Synopsys
-* SecondSpectrum
+* Second Spectrum
+* Udacity
+* WeWork
 
 ## 说明
 
