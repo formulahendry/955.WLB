@@ -25,6 +25,8 @@
 * Splunk
 * WeWork
 
+完整名单见[vote_for_995_companies.md](https://github.com/formulahendry/955.WLB/blob/master/vote_for_995_companies.md)
+
 ## 说明
 
 以上公司名单，基本不属于 996 的公司，相对接近 955 的水平，但是依旧要看部门和地区，不能保证完全准确性。
