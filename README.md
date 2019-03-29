@@ -30,7 +30,7 @@
 * ThoughtWorks - 西安/北京/深圳/成都/武汉/上海
 * WeWork - 上海
 
-完整名单见 [vote_for_995_companies.md](./vote_for_995_companies.md)
+完整名单见 [vote_for_955_companies.md](./vote_for_955_companies.md)
 
 ## 说明
 

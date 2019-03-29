@@ -30,7 +30,7 @@
 * ThoughtWorks - Xi'an/Beijing/Shenzhen/Chengdu/Wuhan/Shanghai
 * WeWork - Shanghai
 
-Go to [vote_for_995_companies.md](./vote_for_995_companies.md) to see full list.
+Go to [vote_for_955_companies.md](./vote_for_955_companies.md) to see full list.
 
 ## Description
 
