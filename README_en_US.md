@@ -10,6 +10,7 @@
 
 ## 955 Companies List
 
+* Autodesk - Beijing/Shanghai
 * Cisco - Beijing/Shanghai/Hangzhou/Suzhou
 * coolapk (酷安) - Beijing/Shenzhen
 * eBay - Shanghai
