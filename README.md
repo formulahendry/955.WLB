@@ -29,6 +29,7 @@
 * Splunk - 上海
 * ThoughtWorks - 西安/北京/深圳/成都/武汉/上海
 * WeWork - 上海
+* PCGROUP - 广州
 
 完整名单见 [vote_for_955_companies.md](./vote_for_955_companies.md)
 
