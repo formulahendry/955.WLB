@@ -1,4 +1,5 @@
 # 955.WLB
+## [Here](https://github.com/bofeiw/955.WLB/blob/master/README_en_US.md) is English version Readme
 
 [996.ICU](https://github.com/996icu/996.ICU) 的相向 Repo。旨在让更多的人逃离 996，加入 955 的行列。
 
