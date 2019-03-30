@@ -12,7 +12,7 @@
 
 * Autodesk - 北京/上海
 * Cisco - 北京/上海/杭州/苏州
-* coolapk (酷安) - 北京/深圳
+* Coolapk (酷安) - 北京/深圳
 * eBay - 上海
 * EMC - 上海
 * Ericsson - 上海
