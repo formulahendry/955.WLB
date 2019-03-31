@@ -30,6 +30,7 @@ The list of the above companies, which are basically not affiliated with 996, is
 * LintCode/九章算法 - Hangzhou/Remote
 * Microsoft - Beijing/Shanghai/Suzhou
 * Oracle - Shanghai
+* Pivotal - Beijing/Shanghai
 * RingCentral - Xiamen
 * SAP - Shanghai
 * Splunk - Shanghai

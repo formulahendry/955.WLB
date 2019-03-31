@@ -35,6 +35,7 @@
 * LintCode/九章算法 - 杭州/远程
 * Microsoft - 北京/上海/苏州
 * Oracle - 上海
+* Pivotal - 北京/上海
 * RingCentral - 厦门
 * SAP - 上海
 * Splunk - 上海
