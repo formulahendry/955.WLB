@@ -1,5 +1,7 @@
 # 955.WLB
 
+[![Join the chat at https://gitter.im/formulahendry/955.WLB](https://badges.gitter.im/formulahendry/955.WLB.svg)](https://gitter.im/formulahendry/955.WLB?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [996.ICU](https://github.com/996icu/996.ICU) 的相向 Repo。旨在让更多的人逃离 996，加入 955 的行列。
 
 996 工作制：即每天早 9 点到岗，一直工作到晚上 9 点。每周工作 6 天。
@@ -50,4 +52,4 @@
 
 请点击下面的链接，投票或添加新公司，我会统一处理。添加新公司请注明工作地点。如果是国内公司，请加上公司中文名（比如：`Xiaomi (小米)`）。
 
-[![Feature Requests](https://cloud.githubusercontent.com/assets/390379/10127973/045b3a96-6560-11e5-9b20-31a2032956b2.png)](http://feathub.com/formulahendry/955.WLB) [![Join the chat at https://gitter.im/formulahendry/955.WLB](https://badges.gitter.im/formulahendry/955.WLB.svg)](https://gitter.im/formulahendry/955.WLB?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Feature Requests](https://cloud.githubusercontent.com/assets/390379/10127973/045b3a96-6560-11e5-9b20-31a2032956b2.png)](http://feathub.com/formulahendry/955.WLB)
