@@ -1,5 +1,7 @@
 # 955.WLB
 
+[![Join the chat at https://gitter.im/formulahendry/955.WLB](https://badges.gitter.im/formulahendry/955.WLB.svg)](https://gitter.im/formulahendry/955.WLB?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [996.ICU](https://github.com/996icu/996.ICU) opposite Repo. Designed to allow more people to flee 996 and join the ranks of 955.
 
 996 Work system: that is, 9 am every day, and work until 9 o'clock in the evening. Work 6 days a week.
@@ -8,11 +10,16 @@
 
 955.WLB: Work 955, work life balance.
 
+## Description
+
+The list of the above companies, which are basically not affiliated with 996, is relatively close to the level of 955/965, but still depends on the department and region, and cannot guarantee complete accuracy.
+
 ## 955 Companies List
 
 * Autodesk - Beijing/Shanghai
 * Cisco - Beijing/Shanghai/Hangzhou/Suzhou
 * coolapk (酷安) - Beijing/Shenzhen
+* Douban (豆瓣) -Beijing
 * eBay - Shanghai
 * EMC - Shanghai
 * Ericsson - Shanghai
@@ -22,19 +29,20 @@
 * IBM - Shanghai
 * Intel - Shanghai
 * LeetCode - Shanghai
+* LintCode/九章算法 - Hangzhou/Remote
 * Microsoft - Beijing/Shanghai/Suzhou
 * Oracle - Shanghai
+* PayPal - Shanghai
+* Pivotal - Beijing/Shanghai
 * RingCentral - Xiamen
 * SAP - Shanghai
 * Splunk - Shanghai
 * ThoughtWorks - Xi'an/Beijing/Shenzhen/Chengdu/Wuhan/Shanghai
+* Vipshop (唯品会) - Shanghai
 * WeWork - Shanghai
+* Works Applications - Shanghai
 
-Go to [vote_for_955_companies.md](./vote_for_955_companies.md) to see full list.
-
-## Description
-
-The list of the above companies, which are basically not affiliated with 996, is relatively close to the level of 955, but still depends on the department and region, and cannot guarantee complete accuracy.
+Go to [vote_for_955_companies.md](./vote_for_955_companies.md) to vote.
 
 ## Add Company
 
