@@ -19,7 +19,7 @@ The list of the above companies, which are basically not affiliated with 996, is
 * Autodesk - Beijing/Shanghai
 * Cisco - Beijing/Shanghai/Hangzhou/Suzhou
 * coolapk (酷安) - Beijing/Shenzhen
-* Douban (豆瓣) -Beijing
+* Douban (豆瓣) - Beijing
 * eBay - Shanghai
 * EMC - Shanghai
 * Ericsson - Shanghai
@@ -39,6 +39,7 @@ The list of the above companies, which are basically not affiliated with 996, is
 * Splunk - Shanghai
 * ThoughtWorks - Xi'an/Beijing/Shenzhen/Chengdu/Wuhan/Shanghai
 * Vipshop (唯品会) - Shanghai
+* VMware - Beijing/Shanghai
 * WeWork - Shanghai
 * Works Applications - Shanghai
 

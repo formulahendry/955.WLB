@@ -25,7 +25,7 @@
 * Autodesk - 北京/上海
 * Cisco - 北京/上海/杭州/苏州
 * coolapk (酷安) - 北京/深圳
-* Douban (豆瓣) -北京
+* Douban (豆瓣) - 北京
 * eBay - 上海
 * EMC - 上海
 * Ericsson - 上海
@@ -45,6 +45,7 @@
 * Splunk - 上海
 * ThoughtWorks - 西安/北京/深圳/成都/武汉/上海
 * Vipshop (唯品会) - 上海
+* VMware - 北京/上海
 * WeWork - 上海
 * Works Applications - 上海
 
