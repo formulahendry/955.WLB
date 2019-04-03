@@ -48,6 +48,10 @@
 * VMware - 北京/上海
 * WeWork - 上海
 * Works Applications - 上海
+* Tata (塔塔)  - 杭州
+* Microstrategy (微策略) - 杭州
+* State Street （道富） - 杭州
+* NOKIA (诺基亚) - 杭州
 
 投票列表见 [vote_for_955_companies.md](./vote_for_955_companies.md)
 
