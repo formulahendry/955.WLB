@@ -48,6 +48,7 @@
 * VMware - 北京/上海
 * WeWork - 上海
 * Works Applications - 上海
+* wangsu (网宿) - 厦门
 
 投票列表见 [vote_for_955_companies.md](./vote_for_955_companies.md)
 
