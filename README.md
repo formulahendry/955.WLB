@@ -43,6 +43,7 @@
 * RingCentral - 厦门
 * SAP - 上海
 * Splunk - 上海
+* SUSE - 北京/上海/深圳
 * ThoughtWorks - 西安/北京/深圳/成都/武汉/上海
 * Vipshop (唯品会) - 上海
 * VMware - 北京/上海
