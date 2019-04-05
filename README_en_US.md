@@ -31,6 +31,7 @@ The list of the above companies, which are basically not affiliated with 996, is
 * LeetCode - Shanghai
 * LintCode/九章算法 - Hangzhou/Remote
 * Microsoft - Beijing/Shanghai/Suzhou
+* MockingBot (墨刀) - Beijing
 * Oracle - Shanghai
 * PayPal - Shanghai
 * Pivotal - Beijing/Shanghai

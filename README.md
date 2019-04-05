@@ -37,6 +37,7 @@
 * LeetCode - 上海
 * LintCode/九章算法 - 杭州/远程
 * Microsoft - 北京/上海/苏州
+* MockingBot (墨刀) - 北京
 * Oracle - 上海
 * PayPal - 上海
 * Pivotal - 北京/上海
