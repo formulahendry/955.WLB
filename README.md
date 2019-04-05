@@ -57,3 +57,9 @@
 请点击下面的链接，投票或添加新公司，我会统一处理。添加新公司请注明工作地点。如果是国内公司，请加上公司中文名（比如：`Xiaomi (小米)`）。
 
 [![Feature Requests](https://cloud.githubusercontent.com/assets/390379/10127973/045b3a96-6560-11e5-9b20-31a2032956b2.png)](http://feathub.com/formulahendry/955.WLB)
+
+## 微信小程序
+
+为方便用户在手机端访问，可通过 [955WLB](https://github.com/formulahendry/weapp-955-wlb) 微信小程序实时查看 955 公司名单。
+
+![qr](./images/weapp-qr.jpg)
