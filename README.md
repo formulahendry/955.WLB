@@ -30,6 +30,7 @@
 * EMC - 上海
 * Ericsson - 上海
 * Google - 北京/上海
+* Grab - 北京
 * HP - 上海
 * HSBC - 上海
 * IBM - 上海 (GBS除外)
