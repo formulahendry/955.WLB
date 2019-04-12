@@ -22,7 +22,10 @@ The list of companies below, which are basically not affiliated with 996, is rel
 
 ## 955 Companies List
 
+* Amazon - Beijing/Shanghai
+* Apple - Beijing/Shanghai
 * Autodesk - Beijing/Shanghai
+* Citrix - Nanjing
 * Cisco - Beijing/Shanghai/Hangzhou/Suzhou
 * Coolapk (酷安) - Beijing/Shenzhen
 * Douban (豆瓣) - Beijing
@@ -30,13 +33,17 @@ The list of companies below, which are basically not affiliated with 996, is rel
 * EMC - Shanghai
 * Ericsson - Shanghai
 * Google - Beijing/Shanghai
+* Grab - Beijing
 * HP - Shanghai
-* HSBC - Shanghai
+* HSBC - Shanghai/Guangzhou/Xi'an
+* Hulu - Beijing
 * IBM - Shanghai (except GBS)
 * Intel - Shanghai
 * LeetCode - Shanghai
 * LintCode/九章算法 - Hangzhou/Remote
 * Microsoft - Beijing/Shanghai/Suzhou
+* National Instruments - Shanghai
+* NVIDIA - Beijing/Shanghai
 * Oracle - Shanghai
 * PayPal - Shanghai
 * Pivotal - Beijing/Shanghai
@@ -45,6 +52,7 @@ The list of companies below, which are basically not affiliated with 996, is rel
 * Splunk - Shanghai
 * SUSE - Beijing/Shanghai/Shenzhen
 * ThoughtWorks - Xi'an/Beijing/Shenzhen/Chengdu/Wuhan/Shanghai
+* Trend Micro - Nanjing
 * Vipshop (唯品会) - Shanghai
 * VMware - Beijing/Shanghai
 * WeWork - Shanghai
