@@ -12,7 +12,13 @@
 
 ## Description
 
-The list of the above companies, which are basically not affiliated with 996, is relatively close to the level of 955/965, but still depends on the department and region, and cannot guarantee complete accuracy.
+The list of companies below, which are basically not affiliated with 996, is relatively close to the 955/965 level, but still depends on the department and region, and cannot guarantee complete accuracy.
+
+* There is no guarantee that all departments in a company are at the level of 955/10-6-5/965/10-7-5
+* Even if the average level of the department is 955/10-6-5/965/10-7-5, it is possible to work overtime sometimes.
+* Some departments of some companies in the list may have 975 or even 985 as a full work week.
+* Some of the companies in the list may be 945, 10-5-5 or 11-6-5. We also add those to the list.
+* The current list of companies in Shanghai is mostly because I (the author of this repo) am in Shanghai, and am relatively familiar with the situation in Shanghai. It does not mean that most of the 955 companies are in Shanghai. Friends are welcome to continue voting, I will add more companies according to what the votes look like.
 
 ## 955 Companies List
 
