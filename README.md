@@ -36,7 +36,7 @@
 * Grab - 北京
 * HP - 上海
 * HSBC - 上海/广州/西安
-* Hulu - 北京北京
+* Hulu - 北京
 * IBM - 上海 (GBS除外)
 * Intel - 上海
 * LeetCode - 上海
