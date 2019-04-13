@@ -57,7 +57,7 @@
 * VMware - 北京/上海
 * WeWork - 上海
 * Works Applications - 上海
-* 华安天诚科技有限公司 - 北京
+* 北京华安天诚科技有限公司 - 北京
 * 北京首都在线科技股份有限公司 - 北京
 
 投票列表见 [vote_for_955_companies.md](./vote_for_955_companies.md)
