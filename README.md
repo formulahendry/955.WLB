@@ -8,7 +8,13 @@
 
 955 工作制：即每天早 9 点到岗，一直工作到下午 5 点。每周工作 5 天。
 
-955.WLB：工作 955，work–life balance (工作与生活的平衡)。
+11-5-5 工作制：即每天上午 11 点到岗，一直工作到下午 5 点。每周工作 5 天。
+
+[996.ICU](https://github.com/996icu/996.ICU): 工作 996， 生病 ICU。
+
+[955.WLB](https://github.com/formulahendry/955.WLB)：工作 955，work–life balance (工作与生活的平衡)。
+
+[1155.Life](https://github.com/formulahendry/1155.Life): 工作 11-5-5，生活为先。
 
 ## 说明
 

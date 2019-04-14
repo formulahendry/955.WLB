@@ -4,11 +4,17 @@
 
 [996.ICU](https://github.com/996icu/996.ICU) related repo, a whitelist of 955 companies. Designed to allow more people to flee 996 and join the ranks of 955.
 
-996 Work system: that is, 9 am every day, and work until 9 o'clock in the evening. Work 6 days a week.
+996 Work system: Start work at 9 AM, and work until 9 PM. Work 6 days a week.
 
-955 Work system: that is, 9 am every day, and work until 5 o'clock in the evening. Work 5 days a week.
+955 Work system: Start work at 9 AM, and work until 5 PM. Work 5 days a week.
 
-955.WLB: Work 955, work life balance.
+11-5-5 Work system: Start work at 11 AM, and work until 5 PM. Work 5 days a week.
+
+[996.ICU](https://github.com/996icu/996.ICU): Work 996, sick in ICU.
+
+[955.WLB](https://github.com/formulahendry/955.WLB): Work 955, work life balance.
+
+[1155.Life](https://github.com/formulahendry/1155.Life): Work 11-5-5，life first.
 
 ## Description
 
