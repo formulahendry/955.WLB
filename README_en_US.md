@@ -2,7 +2,7 @@
 
 [![Join the chat at https://gitter.im/formulahendry/955.WLB](https://badges.gitter.im/formulahendry/955.WLB.svg)](https://gitter.im/formulahendry/955.WLB?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-[996.ICU](https://github.com/996icu/996.ICU) related Repo, a whitelist of 955 companies. Designed to allow more people to flee 996 and join the ranks of 955.
+[996.ICU](https://github.com/996icu/996.ICU) related repo, a whitelist of 955 companies. Designed to allow more people to flee 996 and join the ranks of 955.
 
 996 Work system: that is, 9 am every day, and work until 9 o'clock in the evening. Work 6 days a week.
 
