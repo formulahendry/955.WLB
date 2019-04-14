@@ -14,7 +14,7 @@
 
 [955.WLB](https://github.com/formulahendry/955.WLB): Work 955, work life balance.
 
-[1155.Life](https://github.com/formulahendry/1155.Life): Work 11-5-5，life first.
+[1155.Life](https://github.com/formulahendry/1155.Life): Work 11-5-5, life first.
 
 ## Description
 
