@@ -31,6 +31,7 @@ The list of companies below, which are basically not affiliated with 996, is rel
 * Amazon - Beijing/Shanghai
 * Apple - Beijing/Shanghai
 * Autodesk - Beijing/Shanghai
+* Blackboard - Beijing/Shanghai
 * Citrix - Nanjing
 * Cisco - Beijing/Shanghai/Hangzhou/Suzhou
 * Coolapk (酷安) - Beijing/Shenzhen
