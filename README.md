@@ -53,6 +53,7 @@
 * Oracle - 上海
 * PayPal - 上海
 * Pivotal - 北京/上海
+* Qualcomm - 北京/上海/深圳/西安
 * RingCentral - 厦门
 * SAP - 上海
 * Splunk - 上海
