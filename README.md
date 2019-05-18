@@ -1,7 +1,6 @@
 # 955.WLB
 
 [![Join the chat at https://gitter.im/formulahendry/955.WLB](https://badges.gitter.im/formulahendry/955.WLB.svg)](https://gitter.im/formulahendry/955.WLB?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 [![top.996](https://img.shields.io/badge/link-top.996-red.svg)](https://github.com/top996/top.996)
 
 与 [996.ICU](https://github.com/996icu/996.ICU) 相呼应，955 公司白名单。旨在让更多的人逃离 996，加入 955 的行列。
