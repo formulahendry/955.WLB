@@ -62,6 +62,10 @@ The list of companies below, which are basically not affiliated with 996, is rel
 * VMware - Beijing/Shanghai
 * WeWork - Shanghai
 * Works Applications - Shanghai
+* Tata  - Hangzhou
+* Microstrategy - Hangzhou
+* State Street - Hangzhou
+* NOKIA - Hangzhou
 
 Go to [vote_for_955_companies.md](./vote_for_955_companies.md) to vote.
 
