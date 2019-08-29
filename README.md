@@ -47,7 +47,6 @@
 * IBM - 上海 (GBS除外)
 * Intel - 上海
 * LeetCode - 上海
-* LintCode/九章算法 - 杭州/远程
 * Microsoft - 北京/上海/苏州
 * National Instruments - 上海
 * NVIDIA - 北京/上海
