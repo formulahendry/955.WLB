@@ -52,6 +52,7 @@ The list of companies below, which are basically not affiliated with 996, is rel
 * Oracle - Shanghai
 * PayPal - Shanghai
 * Pivotal - Beijing/Shanghai
+* Qualcomm - Beijing/Shanghai/Shenzhen/Xi'an
 * RingCentral - Xiamen
 * SAP - Shanghai
 * Splunk - Shanghai
