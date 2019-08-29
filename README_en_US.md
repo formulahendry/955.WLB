@@ -46,7 +46,6 @@ The list of companies below, which are basically not affiliated with 996, is rel
 * IBM - Shanghai (except GBS)
 * Intel - Shanghai
 * LeetCode - Shanghai
-* LintCode/九章算法 - Hangzhou/Remote
 * Microsoft - Beijing/Shanghai/Suzhou
 * National Instruments - Shanghai
 * NVIDIA - Beijing/Shanghai
@@ -57,7 +56,7 @@ The list of companies below, which are basically not affiliated with 996, is rel
 * SAP - Shanghai
 * Splunk - Shanghai
 * SUSE - Beijing/Shanghai/Shenzhen
-* ThoughtWorks - Xi'an/Beijing/Shenzhen/Chengdu/Wuhan/Shanghai
+* ThoughtWorks - Xi'an/Beijing/Shenzhen/Chengdu/Wuhan/Shanghai/HongKong
 * Trend Micro - Nanjing
 * Vipshop (唯品会) - Shanghai
 * VMware - Beijing/Shanghai
