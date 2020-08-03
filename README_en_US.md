@@ -38,6 +38,7 @@ The list of companies below, which are basically not affiliated with 996, is rel
 * eBay - Shanghai
 * EMC - Shanghai
 * Ericsson - Shanghai
+* EPAM Systems - Shenzhen/Suzhou
 * Google - Beijing/Shanghai
 * Grab - Beijing
 * HP - Shanghai
