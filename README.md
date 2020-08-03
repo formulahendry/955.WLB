@@ -39,6 +39,7 @@
 * eBay - 上海
 * EMC - 上海
 * Ericsson - 上海
+* EPAM Systems - 深圳/苏州
 * Google - 北京/上海
 * Grab - 北京
 * HP - 上海
