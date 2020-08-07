@@ -29,8 +29,11 @@ The list of companies below, which are basically not affiliated with 996, is rel
 ## 955 Companies List
 
 * Amazon - Beijing/Shanghai
+* AMD - Shanghai
+* Airbnb - Beijing
 * Apple - Beijing/Shanghai
 * Autodesk - Beijing/Shanghai
+* Booking - Shanghai
 * Citrix - Nanjing
 * Cisco - Beijing/Shanghai/Hangzhou/Suzhou
 * Coolapk (酷安) - Beijing/Shenzhen
@@ -38,30 +41,41 @@ The list of companies below, which are basically not affiliated with 996, is rel
 * eBay - Shanghai
 * EMC - Shanghai
 * Ericsson - Shanghai
+* GE - Shanghai
 * Google - Beijing/Shanghai
 * Grab - Beijing
+* Honeywell - Shanghai
 * HP - Shanghai
 * HSBC - Shanghai/Guangzhou/Xi'an
 * Hulu - Beijing
 * IBM - Shanghai (except GBS)
+* iHerb - Shanghai
 * Intel - Shanghai
 * LeetCode - Shanghai
+* Linkedin - Beijing
 * Microsoft - Beijing/Shanghai/Suzhou
+* MicroStrategy - Hangzhou
 * National Instruments - Shanghai
 * NVIDIA - Beijing/Shanghai
 * Oracle - Shanghai
 * PayPal - Shanghai
 * Pivotal - Beijing/Shanghai
+* Red Hat - Beijing/Shanghai/Shenzhen
 * RingCentral - Xiamen
 * SAP - Shanghai
+* Shopee - Shenzhen
 * Splunk - Shanghai
 * SUSE - Beijing/Shanghai/Shenzhen
 * ThoughtWorks - Xi'an/Beijing/Shenzhen/Chengdu/Wuhan/Shanghai/HongKong
 * Trend Micro - Nanjing
+* Ubisoft - Shanghai
+* Unity - Shanghai
 * Vipshop (唯品会) - Shanghai
 * VMware - Beijing/Shanghai
 * WeWork - Shanghai
 * Works Applications - Shanghai
+* Zhihu (知乎) - Beijing
+* Zoom - Hefei/Hangzhou/Suzhou
 
 Go to [vote_for_955_companies.md](./vote_for_955_companies.md) to vote.
 
@@ -75,4 +89,4 @@ Please click on the link below to vote or add a new company, I will handle it un
 
 You could see the full list of 955 companies through [955WLB](https://github.com/formulahendry/weapp-955-wlb) WeChat Mini Program.
 
-![qr](./images/weapp-qr.jpg)
+![qr](https://s1.ax1x.com/2020/08/07/ahUfFx.jpg)

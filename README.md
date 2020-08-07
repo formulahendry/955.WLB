@@ -1,7 +1,6 @@
 # 955.WLB
 
 [![Join the chat at https://gitter.im/formulahendry/955.WLB](https://badges.gitter.im/formulahendry/955.WLB.svg)](https://gitter.im/formulahendry/955.WLB?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![top.996](https://img.shields.io/badge/link-top.996-red.svg)](https://github.com/top996/top.996)
 
 与 [996.ICU](https://github.com/996icu/996.ICU) 相呼应，955 公司白名单。旨在让更多的人逃离 996，加入 955 的行列。
 
@@ -30,8 +29,11 @@
 ## 955 的公司名单
 
 * Amazon - 北京/上海
+* AMD - 上海
+* Airbnb - 北京
 * Apple - 北京/上海
 * Autodesk - 北京/上海
+* Booking - 上海
 * Citrix - 南京
 * Cisco - 北京/上海/杭州/苏州
 * Coolapk (酷安) - 北京/深圳
@@ -39,30 +41,41 @@
 * eBay - 上海
 * EMC - 上海
 * Ericsson - 上海
+* GE - 上海
 * Google - 北京/上海
 * Grab - 北京
+* Honeywell - 上海
 * HP - 上海
 * HSBC - 上海/广州/西安
 * Hulu - 北京
 * IBM - 上海 (GBS除外)
+* iHerb - 上海
 * Intel - 上海
 * LeetCode - 上海
+* Linkedin - 北京
 * Microsoft - 北京/上海/苏州
+* MicroStrategy - 杭州
 * National Instruments - 上海
 * NVIDIA - 北京/上海
 * Oracle - 上海
 * PayPal - 上海
 * Pivotal - 北京/上海
+* Red Hat - 北京/上海/深圳
 * RingCentral - 厦门
 * SAP - 上海
+* Shopee - 深圳
 * Splunk - 上海
 * SUSE - 北京/上海/深圳
 * ThoughtWorks - 西安/北京/深圳/成都/武汉/上海/香港
 * Trend Micro - 南京
+* Ubisoft - 上海
+* Unity - 上海
 * Vipshop (唯品会) - 上海
 * VMware - 北京/上海
 * WeWork - 上海
 * Works Applications - 上海
+* Zhihu (知乎) - 北京
+* Zoom - 合肥/杭州/苏州
 
 投票列表见 [vote_for_955_companies.md](./vote_for_955_companies.md)
 
@@ -76,4 +89,4 @@
 
 为方便用户在手机端访问，可通过 [955WLB](https://github.com/formulahendry/weapp-955-wlb) 微信小程序实时查看 955 公司名单。
 
-![qr](./images/weapp-qr.jpg)
+![qr](https://s1.ax1x.com/2020/08/07/ahUfFx.jpg)
