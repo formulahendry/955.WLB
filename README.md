@@ -42,7 +42,7 @@
 * EMC - 上海
 * Ericsson - 上海
 * GE - 上海
-* GinoLegalTech - 深圳
+* GinoLegalTech (君子一诺科技) - 深圳
 * Google - 北京/上海
 * Grab - 北京
 * Honeywell - 上海
