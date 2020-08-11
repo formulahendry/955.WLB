@@ -64,7 +64,7 @@
 * RingCentral - 厦门
 * SAP - 上海
 * Shopee - 深圳
-* Splunk - 上海
+* ~~Splunk - 上海~~
 * SUSE - 北京/上海/深圳
 * ThoughtWorks - 西安/北京/深圳/成都/武汉/上海/香港
 * Trend Micro - 南京
