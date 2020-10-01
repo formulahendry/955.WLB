@@ -39,8 +39,11 @@
 * Coolapk (酷安) - 北京/深圳
 * Douban (豆瓣) - 北京
 * eBay - 上海
+* eHealth 厦门
+* Electronic Arts - 上海
 * EMC - 上海
 * Ericsson - 上海
+* FreeWheel - 北京
 * GE - 上海
 * Google - 北京/上海
 * Grab - 北京
@@ -53,9 +56,10 @@
 * Intel - 上海
 * LeetCode - 上海
 * Linkedin - 北京
+* National Instruments - 上海
 * Microsoft - 北京/上海/苏州
 * MicroStrategy - 杭州
-* National Instruments - 上海
+* Nokia - 南京/杭州
 * NVIDIA - 北京/上海
 * Oracle - 上海
 * PayPal - 上海
@@ -64,7 +68,8 @@
 * RingCentral - 厦门
 * SAP - 上海
 * Shopee - 深圳
-* Splunk - 上海
+* SmartNews - 北京/上海
+* State Street - 杭州
 * SUSE - 北京/上海/深圳
 * ThoughtWorks - 西安/北京/深圳/成都/武汉/上海/香港
 * Trend Micro - 南京

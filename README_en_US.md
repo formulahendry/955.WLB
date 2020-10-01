@@ -39,8 +39,11 @@ The list of companies below, which are basically not affiliated with 996, is rel
 * Coolapk (酷安) - Beijing/Shenzhen
 * Douban (豆瓣) - Beijing
 * eBay - Shanghai
+* eHealth Xiamen
+* Electronic Arts - Shanghai
 * EMC - Shanghai
 * Ericsson - Shanghai
+* FreeWheel - Beijing
 * GE - Shanghai
 * Google - Beijing/Shanghai
 * Grab - Beijing
@@ -53,9 +56,10 @@ The list of companies below, which are basically not affiliated with 996, is rel
 * Intel - Shanghai
 * LeetCode - Shanghai
 * Linkedin - Beijing
+* National Instruments - Shanghai
 * Microsoft - Beijing/Shanghai/Suzhou
 * MicroStrategy - Hangzhou
-* National Instruments - Shanghai
+* Nokia - Nanjing/Hangzhou
 * NVIDIA - Beijing/Shanghai
 * Oracle - Shanghai
 * PayPal - Shanghai
@@ -64,7 +68,8 @@ The list of companies below, which are basically not affiliated with 996, is rel
 * RingCentral - Xiamen
 * SAP - Shanghai
 * Shopee - Shenzhen
-* Splunk - Shanghai
+* SmartNews - Beijing/Shanghai
+* State Street - Hangzhou
 * SUSE - Beijing/Shanghai/Shenzhen
 * ThoughtWorks - Xi'an/Beijing/Shenzhen/Chengdu/Wuhan/Shanghai/HongKong
 * Trend Micro - Nanjing
