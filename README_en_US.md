@@ -95,3 +95,9 @@ Please click on the link below to vote or add a new company, I will handle it un
 You could see the full list of 955 companies through [955WLB](https://github.com/formulahendry/weapp-955-wlb) WeChat Mini Program.
 
 ![qr](https://s1.ax1x.com/2020/08/07/ahUfFx.jpg)
+
+## 955 Referral
+
+Referral for 955 companies，please visit “HJ说” WeChat Public Account：
+
+![qr](https://s2.ax1x.com/2019/05/16/E7vSSJ.jpg)

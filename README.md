@@ -95,3 +95,9 @@
 为方便用户在手机端访问，可通过 [955WLB](https://github.com/formulahendry/weapp-955-wlb) 微信小程序实时查看 955 公司名单。
 
 ![qr](https://s1.ax1x.com/2020/08/07/ahUfFx.jpg)
+
+## 955 内推
+
+955 公司内推，可以关注“HJ说”公众号：
+
+![qr](https://s2.ax1x.com/2019/05/16/E7vSSJ.jpg)
