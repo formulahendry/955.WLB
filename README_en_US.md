@@ -77,7 +77,6 @@ The list of companies below, which are basically not affiliated with 996, is rel
 * Unity - Shanghai
 * Vipshop (唯品会) - Shanghai
 * VMware - Beijing/Shanghai
-* WeWork - Shanghai
 * Works Applications - Shanghai
 * Zhihu (知乎) - Beijing
 * Zoom - Hefei/Hangzhou/Suzhou
