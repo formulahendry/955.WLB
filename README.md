@@ -77,7 +77,6 @@
 * Unity - 上海
 * Vipshop (唯品会) - 上海
 * VMware - 北京/上海
-* WeWork - 上海
 * Works Applications - 上海
 * Zhihu (知乎) - 北京
 * Zoom - 合肥/杭州/苏州
