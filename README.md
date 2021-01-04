@@ -81,6 +81,7 @@
 * Works Applications - 上海
 * Zhihu (知乎) - 北京
 * Zoom - 合肥/杭州/苏州
+* Akuna Capital - 上海
 
 投票列表见 [vote_for_955_companies.md](./vote_for_955_companies.md)
 
