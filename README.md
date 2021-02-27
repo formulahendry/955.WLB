@@ -28,6 +28,7 @@
 
 ## 955 的公司名单
 
+* Afterpay - 上海
 * Amazon - 北京/上海
 * AMD - 上海
 * Airbnb - 北京
