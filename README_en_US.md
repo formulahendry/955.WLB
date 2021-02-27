@@ -32,11 +32,13 @@ The list of companies below, which are basically not affiliated with 996, is rel
 * AMD - Shanghai
 * Airbnb - Beijing
 * Apple - Beijing/Shanghai
+* ArcSoft - Hangzhou
 * Autodesk - Beijing/Shanghai
 * Booking - Shanghai
 * Citrix - Nanjing
 * Cisco - Beijing/Shanghai/Hangzhou/Suzhou
 * Coolapk (酷安) - Beijing/Shenzhen
+* Coupang - Beijing/Shanghai
 * Douban (豆瓣) - Beijing
 * eBay - Shanghai
 * eHealth Xiamen
@@ -65,19 +67,22 @@ The list of companies below, which are basically not affiliated with 996, is rel
 * PayPal - Shanghai
 * Pivotal - Beijing/Shanghai
 * Red Hat - Beijing/Shanghai/Shenzhen
-* RingCentral - Xiamen
+* RingCentral - Xiamen/Hangzhou/HongKong
 * SAP - Shanghai
 * Shopee - Shenzhen
 * SmartNews - Beijing/Shanghai
+* Snap - Beijing/Shenzhen
 * State Street - Hangzhou
 * SUSE - Beijing/Shanghai/Shenzhen
 * ThoughtWorks - Xi'an/Beijing/Shenzhen/Chengdu/Wuhan/Shanghai/HongKong
 * Trend Micro - Nanjing
+* TuSimple - Beijing
 * Ubisoft - Shanghai
 * Unity - Shanghai
 * Vipshop (唯品会) - Shanghai
 * VMware - Beijing/Shanghai
 * WeWork - Shanghai
+* Wish - Shanghai
 * Works Applications - Shanghai
 * Zhihu (知乎) - Beijing
 * Zoom - Hefei/Hangzhou/Suzhou
