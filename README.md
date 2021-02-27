@@ -58,9 +58,9 @@
 * Intel - 上海
 * LeetCode - 上海
 * Linkedin - 北京
-* National Instruments - 上海
 * Microsoft - 北京/上海/苏州
 * MicroStrategy - 杭州
+* National Instruments - 上海
 * Nokia - 南京/杭州
 * NVIDIA - 北京/上海
 * Oracle - 上海

@@ -58,9 +58,9 @@ The list of companies below, which are basically not affiliated with 996, is rel
 * Intel - Shanghai
 * LeetCode - Shanghai
 * Linkedin - Beijing
-* National Instruments - Shanghai
 * Microsoft - Beijing/Shanghai/Suzhou
 * MicroStrategy - Hangzhou
+* National Instruments - Shanghai
 * Nokia - Nanjing/Hangzhou
 * NVIDIA - Beijing/Shanghai
 * Oracle - Shanghai
