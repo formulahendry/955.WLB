@@ -70,6 +70,7 @@ The list of companies below, which are basically not affiliated with 996, is rel
 * RingCentral - Xiamen/Hangzhou/HongKong
 * SAP - Shanghai
 * Shopee - Shenzhen
+* Skyscanner - Shenzhen
 * SmartNews - Beijing/Shanghai
 * Snap - Beijing/Shenzhen
 * State Street - Hangzhou
