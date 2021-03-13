@@ -73,7 +73,7 @@
 * SmartNews - 北京/上海
 * Snap - 北京/深圳
 * State Street - 杭州
-* SUSE - 北京/上海/深圳
+* SUSE - 北京/上海/深圳/沈阳
 * ThoughtWorks - 西安/北京/深圳/成都/武汉/上海/香港
 * Trend Micro - 南京
 * TuSimple - 北京
