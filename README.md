@@ -56,6 +56,7 @@
 * IBM - 上海 (GBS除外)
 * iHerb - 上海
 * Intel - 上海
+* Infor - 上海
 * LeetCode - 上海
 * Linkedin - 北京
 * Microsoft - 北京/上海/苏州
