@@ -78,7 +78,6 @@ The list of companies below, which are basically not affiliated with 996, is rel
 * Snap - Beijing/Shenzhen
 * State Street - Hangzhou
 * SUSE - Beijing/Shanghai/Shenzhen
-* ThoughtWorks - Xi'an/Beijing/Shenzhen/Chengdu/Wuhan/Shanghai/HongKong
 * Trend Micro - Nanjing
 * TuSimple - Beijing
 * Ubisoft - Shanghai
