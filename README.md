@@ -50,6 +50,7 @@
 * Ericsson - 上海
 * FreeWheel - 北京
 * GE - 上海
+* GinoLegalTech (君子一诺科技) - 深圳
 * Google - 北京/上海
 * Grab - 北京
 * Honeywell - 上海
