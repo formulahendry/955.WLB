@@ -70,7 +70,7 @@
 * PayPal - 上海
 * Pivotal - 北京/上海
 * Qualcomm - 北京/上海
-* Red Hat - 北京/上海/深圳
+* Red Hat - 北京/上海/深圳/西安/remote
 * RingCentral - 厦门/杭州/香港
 * SAP - 上海
 * Shopee - 深圳

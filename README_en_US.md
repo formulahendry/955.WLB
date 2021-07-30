@@ -70,7 +70,7 @@ The list of companies below, which are basically not affiliated with 996, is rel
 * PayPal - Shanghai
 * Pivotal - Beijing/Shanghai
 * Qualcomm - Beijing/Shanghai
-* Red Hat - Beijing/Shanghai/Shenzhen
+* Red Hat - Beijing/Shanghai/Shenzhen/Xi'an/Remote
 * RingCentral - Xiamen/Hangzhou/HongKong
 * SAP - Shanghai
 * Shopee - Shenzhen
