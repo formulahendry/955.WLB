@@ -56,7 +56,7 @@ The list of companies below, which are basically not affiliated with 996, is rel
 * HP - Shanghai
 * HSBC - Shanghai/Guangzhou/Xi'an
 * Hulu - Beijing
-* IBM - Shanghai (except GBS)
+* IBM (except GBS) - Shanghai
 * iHerb - Shanghai
 * Intel - Shanghai
 * LeetCode - Shanghai

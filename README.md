@@ -56,7 +56,7 @@
 * HP - 上海
 * HSBC - 上海/广州/西安
 * Hulu - 北京
-* IBM - 上海 (GBS除外)
+* IBM (GBS除外) - 上海
 * iHerb - 上海
 * Intel - 上海
 * LeetCode - 上海
