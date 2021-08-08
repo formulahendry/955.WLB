@@ -44,7 +44,7 @@ The list of companies below, which are basically not affiliated with 996, is rel
 * CSTC (花旗金融) - Shanghai
 * Douban (豆瓣) - Beijing
 * eBay - Shanghai
-* eHealth Xiamen
+* eHealth - Xiamen
 * Electronic Arts - Shanghai
 * EMC - Shanghai
 * Ericsson - Shanghai

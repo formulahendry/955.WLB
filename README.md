@@ -44,7 +44,7 @@
 * CSTC (花旗金融) - 上海
 * Douban (豆瓣) - 北京
 * eBay - 上海
-* eHealth 厦门
+* eHealth - 厦门
 * Electronic Arts - 上海
 * EMC - 上海
 * Ericsson - 上海
