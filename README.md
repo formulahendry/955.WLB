@@ -74,6 +74,7 @@
 * RingCentral - 厦门/杭州/香港
 * SAP - 上海
 * Shopee - 深圳
+* Skyscanner - 深圳
 * SmartNews - 北京/上海
 * Snap - 北京/深圳
 * State Street - 杭州
