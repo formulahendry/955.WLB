@@ -37,17 +37,20 @@
 * ArcSoft - 杭州
 * Autodesk - 北京/上海
 * Booking - 上海
+* Calix - 南京
 * Citrix - 南京
 * Cisco - 北京/上海/杭州/苏州
 * Coolapk (酷安) - 北京/深圳
 * Coupang - 北京/上海
 * CSTC (花旗金融) - 上海
+* Dell - 上海
 * Douban (豆瓣) - 北京
 * eBay - 上海
 * eHealth - 厦门
 * Electronic Arts - 上海
 * EMC - 上海
 * Ericsson - 上海
+* Flexport - 上海/深圳
 * FreeWheel - 北京
 * GE - 上海
 * Google - 北京/上海
@@ -58,9 +61,10 @@
 * Hulu - 北京
 * IBM (GBS除外) - 上海
 * iHerb - 上海
-* Intel - 上海
+* Intel - 上海/深圳
 * LeetCode - 上海
 * Linkedin - 北京
+* Micro Focus - 上海
 * Microsoft - 北京/上海/苏州
 * MicroStrategy - 杭州
 * National Instruments - 上海
@@ -73,14 +77,14 @@
 * Red Hat - 北京/上海/深圳/西安/remote
 * RingCentral - 厦门/杭州/香港
 * SAP - 上海
-* Shopee - 深圳
+* Shopee - 北京/上海/深圳
 * SmartNews - 北京/上海
 * Snap - 北京/深圳
 * State Street - 杭州
 * SUSE - 北京/上海/深圳
 * ThoughtWorks - 西安/北京/深圳/成都/武汉/上海/香港
 * Trend Micro - 南京
-* TuSimple - 北京
+* TuSimple - 北京/上海
 * Ubisoft - 上海
 * Unity - 上海
 * Vipshop (唯品会) - 上海
