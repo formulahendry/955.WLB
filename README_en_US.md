@@ -31,7 +31,7 @@ The list of companies below, which are basically not affiliated with 996, is rel
 * Afterpay - Shanghai
 * Amazon - Beijing/Shanghai
 * AMD - Shanghai
-* ARM - Shanghai
+* ARM(except CB) - Shanghai
 * Airbnb - Beijing
 * Apple - Beijing/Shanghai
 * ArcSoft - Hangzhou
