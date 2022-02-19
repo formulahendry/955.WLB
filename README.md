@@ -59,7 +59,7 @@
 * HP - 上海
 * HSBC - 上海/广州/西安
 * Hulu - 北京
-* IBM (GBS除外) - 上海
+* IBM (GBS除外) - 北京/上海
 * iHerb - 上海
 * Intel - 上海/深圳
 * LeetCode - 上海
@@ -67,15 +67,19 @@
 * Micro Focus - 上海
 * Microsoft - 北京/上海/苏州
 * MicroStrategy - 杭州
+* Morgan Stanley (IT) - 上海
 * National Instruments - 上海
 * Nokia - 南京/杭州
 * NVIDIA - 北京/上海
 * Oracle - 上海
 * PayPal - 上海
+* Philips - 上海/苏州
 * Pivotal - 北京/上海
 * Qualcomm - 北京/上海
+* Rakuten - 上海/大连
 * Red Hat - 北京/上海/深圳/西安/remote
 * RingCentral - 厦门/杭州/香港
+* SanDisk - 上海
 * SAP - 上海
 * Shopee - 北京/上海/深圳
 * SmartNews - 北京/上海
@@ -84,6 +88,7 @@
 * SUSE - 北京/上海/深圳
 * ThoughtWorks - 西安/北京/深圳/成都/武汉/上海/香港
 * Trend Micro - 南京
+* Tubi - 北京
 * TuSimple - 北京/上海
 * Ubisoft - 上海
 * Unity - 上海
