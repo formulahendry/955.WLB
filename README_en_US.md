@@ -53,6 +53,7 @@ The list of companies below, which are basically not affiliated with 996, is rel
 * Flexport - Shanghai/Shenzhen
 * FreeWheel - Beijing
 * GE - Shanghai
+* GinoLegalTech - Shenzhen
 * Google - Beijing/Shanghai
 * Grab - Beijing
 * Honeywell - Shanghai
