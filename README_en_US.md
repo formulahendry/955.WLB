@@ -28,41 +28,79 @@ The list of companies below, which are basically not affiliated with 996, is rel
 
 ## 955 Companies List
 
+* Afterpay - Shanghai
 * Amazon - Beijing/Shanghai
+* AMD - Shanghai
+* ARM - Shanghai
+* Airbnb - Beijing
 * Apple - Beijing/Shanghai
+* ArcSoft - Hangzhou
 * Autodesk - Beijing/Shanghai
+* Booking - Shanghai
+* Calix - Nanjing
 * Citrix - Nanjing
 * Cisco - Beijing/Shanghai/Hangzhou/Suzhou
 * Coolapk (酷安) - Beijing/Shenzhen
+* Coupang - Beijing/Shanghai
+* CSTC (花旗金融) - Shanghai
+* Dell - Shanghai
 * Douban (豆瓣) - Beijing
 * eBay - Shanghai
+* eHealth - Xiamen
+* Electronic Arts - Shanghai
 * EMC - Shanghai
 * Ericsson - Shanghai
 * EPAM Systems - Shenzhen/Suzhou
+* Flexport - Shanghai/Shenzhen
+* FreeWheel - Beijing
+* GE - Shanghai
 * Google - Beijing/Shanghai
 * Grab - Beijing
+* Honeywell - Shanghai
 * HP - Shanghai
 * HSBC - Shanghai/Guangzhou/Xi'an
 * Hulu - Beijing
-* IBM - Shanghai (except GBS)
-* Intel - Shanghai
+* IBM (except GBS) - Beijing/Shanghai
+* iHerb - Shanghai
+* Intel - Shanghai/Shenzhen
 * LeetCode - Shanghai
+* Linkedin - Beijing
+* Micro Focus - Shanghai
 * Microsoft - Beijing/Shanghai/Suzhou
+* MicroStrategy - Hangzhou
+* Morgan Stanley (IT) - Shanghai
 * National Instruments - Shanghai
+* Nokia - Nanjing/Hangzhou
 * NVIDIA - Beijing/Shanghai
 * Oracle - Shanghai
 * PayPal - Shanghai
+* Philips - Shanghai/Suzhou
 * Pivotal - Beijing/Shanghai
-* RingCentral - Xiamen
+* Qualcomm - Beijing/Shanghai
+* Rakuten - Shanghai/Dalian
+* Red Hat - Beijing/Shanghai/Shenzhen/Xi'an/Remote
+* RingCentral - Xiamen/Hangzhou/HongKong
+* SanDisk - Shanghai
 * SAP - Shanghai
-* Splunk - Shanghai
+* Shopee - Beijing/Shanghai/Shenzhen
+* SmartNews - Beijing/Shanghai
+* Snap - Beijing/Shenzhen
+* State Street - Hangzhou
 * SUSE - Beijing/Shanghai/Shenzhen
 * ThoughtWorks - Xi'an/Beijing/Shenzhen/Chengdu/Wuhan/Shanghai/HongKong
 * Trend Micro - Nanjing
+* Tubi - Beijing
+* TuSimple - Beijing/Shanghai
+* Ubisoft - Shanghai
+* Unity - Shanghai
 * Vipshop (唯品会) - Shanghai
 * VMware - Beijing/Shanghai
 * WeWork - Shanghai
+* Wish - Shanghai
 * Works Applications - Shanghai
+* XMind - Shenzhen
+* Zhihu (知乎) - Beijing
+* Zoom - Hefei/Hangzhou/Suzhou
 
 Go to [vote_for_955_companies.md](./vote_for_955_companies.md) to vote.
 
@@ -76,4 +114,10 @@ Please click on the link below to vote or add a new company, I will handle it un
 
 You could see the full list of 955 companies through [955WLB](https://github.com/formulahendry/weapp-955-wlb) WeChat Mini Program.
 
-![qr](./images/weapp-qr.jpg)
+![qr](https://s1.ax1x.com/2020/08/07/ahUfFx.jpg)
+
+## 955 Referral
+
+Referral for 955 companies，please visit “HJ说” WeChat Public Account：
+
+![qr](https://s2.ax1x.com/2019/05/16/E7vSSJ.jpg)
