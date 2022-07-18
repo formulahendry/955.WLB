@@ -62,6 +62,7 @@
 * IBM (GBS除外) - 北京/上海
 * iHerb - 上海
 * Intel - 上海/深圳
+* Jnist - 济南
 * LeetCode - 上海
 * Linkedin - 北京
 * Micro Focus - 上海
