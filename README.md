@@ -45,6 +45,7 @@
 * CSTC (花旗金融) - 上海
 * Dell - 上海
 * Douban (豆瓣) - 北京
+* Duolingo - 北京
 * eBay - 上海
 * eHealth - 厦门
 * Electronic Arts - 上海
@@ -61,7 +62,7 @@
 * Hulu - 北京
 * IBM (GBS除外) - 北京/上海
 * iHerb - 上海
-* Intel - 上海/深圳
+* Intel - 北京/上海/深圳
 * LeetCode - 上海
 * Linkedin - 北京
 * Micro Focus - 上海
@@ -69,7 +70,9 @@
 * MicroStrategy - 杭州
 * Morgan Stanley (IT) - 上海
 * National Instruments - 上海
-* Nokia - 南京/杭州
+* Nike - 上海
+* Nokia - 上海/南京/杭州
+* Nomura - 上海
 * NVIDIA - 北京/上海
 * Oracle - 上海
 * PayPal - 上海
@@ -79,13 +82,14 @@
 * Rakuten - 上海/大连
 * Red Hat - 北京/上海/深圳/西安/remote
 * RingCentral - 厦门/杭州/香港
+* Rippling - 北京/上海
 * SanDisk - 上海
 * SAP - 上海
-* Shopee - 北京/上海/深圳
 * SmartNews - 北京/上海
 * Snap - 北京/深圳
 * State Street - 杭州
 * SUSE - 北京/上海/深圳
+* The Trade Desk - 上海/深圳
 * ThoughtWorks - 西安/北京/深圳/成都/武汉/上海/香港
 * Trend Micro - 南京
 * Tubi - 北京
