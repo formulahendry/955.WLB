@@ -38,6 +38,7 @@ The list of companies below, which are basically not affiliated with 996, is rel
 * Autodesk - Beijing/Shanghai
 * Booking - Shanghai
 * Calix - Nanjing
+* Canva - Beijing/Wuhan
 * Citrix - Nanjing
 * Cisco - Beijing/Shanghai/Hangzhou/Suzhou
 * Coolapk (酷安) - Beijing/Shenzhen

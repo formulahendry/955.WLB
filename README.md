@@ -38,6 +38,7 @@
 * Autodesk - 北京/上海
 * Booking - 上海
 * Calix - 南京
+* Canva - 北京/武汉
 * Citrix - 南京
 * Cisco - 北京/上海/杭州/苏州
 * Coolapk (酷安) - 北京/深圳
