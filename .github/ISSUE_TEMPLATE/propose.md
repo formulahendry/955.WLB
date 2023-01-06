@@ -1,7 +1,7 @@
 ---
 name: 提名新公司
 about: 提名新公司
-title: 'Propose new company'
+title: '[Propose new company] '
 labels: ''
 assignees: ''
 ---
