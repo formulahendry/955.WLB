@@ -105,14 +105,6 @@ The list of companies below, which are basically not affiliated with 996, is rel
 * Zhihu (知乎) - Beijing
 * Zoom - Hefei/Hangzhou/Suzhou
 
-Go to [vote_for_955_companies.md](./vote_for_955_companies.md) to vote.
-
-## Add Company
-
-Please click on the link below to vote or add a new company, I will handle it uniformly. Please add a new company, please indicate the place of work. If it is a domestic company, please add the company's Chinese name (for example: `Xiaomi (小米)`).
-
-[![Feature Requests](https://cloud.githubusercontent.com/assets/390379/10127973/045b3a96-6560-11e5-9b20-31a2032956b2.png)](http://feathub.com/formulahendry/955.WLB)
-
 ## WeChat Mini Program
 
 You could see the full list of 955 companies through [955WLB](https://github.com/formulahendry/weapp-955-wlb) WeChat Mini Program.
