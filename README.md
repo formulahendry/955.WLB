@@ -52,6 +52,7 @@
 * Electronic Arts - 上海
 * EMC - 上海
 * Ericsson - 上海
+* EPAM Systems - 深圳/苏州/成都
 * Flexport - 上海/深圳
 * FreeWheel - 北京
 * GE - 上海

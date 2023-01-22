@@ -52,6 +52,7 @@ The list of companies below, which are basically not affiliated with 996, is rel
 * Electronic Arts - Shanghai
 * EMC - Shanghai
 * Ericsson - Shanghai
+* EPAM Systems - Shenzhen/Suzhou
 * Flexport - Shanghai/Shenzhen
 * FreeWheel - Beijing
 * GE - Shanghai
