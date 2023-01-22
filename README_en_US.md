@@ -52,7 +52,7 @@ The list of companies below, which are basically not affiliated with 996, is rel
 * Electronic Arts - Shanghai
 * EMC - Shanghai
 * Ericsson - Shanghai
-* EPAM Systems - Shenzhen/Suzhou
+* EPAM Systems - Shanghai/Shenzhen/Suzhou/Chengdu
 * Flexport - Shanghai/Shenzhen
 * FreeWheel - Beijing
 * GE - Shanghai
@@ -66,6 +66,7 @@ The list of companies below, which are basically not affiliated with 996, is rel
 * iHerb - Shanghai
 * Intel - Beijing/Shanghai/Shenzhen
 * LeetCode - Shanghai
+* LEGO Group - Shanghai
 * Linkedin - Beijing
 * Micro Focus - Shanghai
 * Microsoft - Beijing/Shanghai/Suzhou
@@ -76,6 +77,7 @@ The list of companies below, which are basically not affiliated with 996, is rel
 * Nokia - Shanghai/Nanjing/Hangzhou
 * Nomura - Shanghai
 * NVIDIA - Beijing/Shanghai
+* Optiver - Shanghai
 * Oracle - Shanghai
 * PayPal - Shanghai
 * Philips - Shanghai/Suzhou
@@ -96,6 +98,7 @@ The list of companies below, which are basically not affiliated with 996, is rel
 * Trend Micro - Nanjing
 * Tubi - Beijing
 * TuSimple - Beijing/Shanghai
+* Two Sigma - Shanghai
 * Ubisoft - Shanghai
 * Unity - Shanghai
 * Vipshop (唯品会) - Shanghai

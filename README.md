@@ -52,7 +52,7 @@
 * Electronic Arts - 上海
 * EMC - 上海
 * Ericsson - 上海
-* EPAM Systems - 深圳/苏州/成都
+* EPAM Systems - 上海/深圳/苏州/成都
 * Flexport - 上海/深圳
 * FreeWheel - 北京
 * GE - 上海
@@ -66,6 +66,7 @@
 * iHerb - 上海
 * Intel - 北京/上海/深圳
 * LeetCode - 上海
+* LEGO Group - 上海
 * Linkedin - 北京
 * Micro Focus - 上海
 * Microsoft - 北京/上海/苏州
@@ -76,6 +77,7 @@
 * Nokia - 上海/南京/杭州
 * Nomura - 上海
 * NVIDIA - 北京/上海
+* Optiver - 上海
 * Oracle - 上海
 * PayPal - 上海
 * Philips - 上海/苏州
@@ -96,6 +98,7 @@
 * Trend Micro - 南京
 * Tubi - 北京
 * TuSimple - 北京/上海
+* Two Sigma - Shanghai
 * Ubisoft - 上海
 * Unity - 上海
 * Vipshop (唯品会) - 上海
