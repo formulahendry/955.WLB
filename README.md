@@ -98,7 +98,7 @@
 * Trend Micro - 南京
 * Tubi - 北京
 * TuSimple - 北京/上海
-* Two Sigma - Shanghai
+* Two Sigma - 上海
 * Ubisoft - 上海
 * Unity - 上海
 * Vipshop (唯品会) - 上海
