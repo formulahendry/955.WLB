@@ -29,18 +29,18 @@ The list of companies below, which are basically not affiliated with 996, is rel
 ## 955 Companies List
 
 * Afterpay - Shanghai
+* Airbnb - Beijing
 * Amazon - Beijing/Shanghai
 * AMD - Shanghai
-* ARM - Shanghai
-* Airbnb - Beijing
 * Apple - Beijing/Shanghai
 * ArcSoft - Hangzhou
+* ARM - Shanghai
 * Autodesk - Beijing/Shanghai
 * Booking - Shanghai
 * Calix - Nanjing
 * Canva - Beijing/Wuhan
-* Citrix - Nanjing
 * Cisco - Beijing/Shanghai/Hangzhou/Suzhou
+* Citrix - Nanjing
 * Coolapk (酷安) - Beijing/Shenzhen
 * Coupang - Beijing/Shanghai
 * CSTC (花旗金融) - Shanghai
@@ -51,8 +51,8 @@ The list of companies below, which are basically not affiliated with 996, is rel
 * eHealth - Xiamen
 * Electronic Arts - Shanghai
 * EMC - Shanghai
-* Ericsson - Shanghai
 * EPAM Systems - Shanghai/Shenzhen/Suzhou/Chengdu
+* Ericsson - Shanghai
 * Flexport - Shanghai/Shenzhen
 * FreeWheel - Beijing
 * GE - Shanghai

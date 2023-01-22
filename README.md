@@ -29,18 +29,18 @@
 ## 955 的公司名单
 
 * Afterpay - 上海
+* Airbnb - 北京
 * Amazon - 北京/上海
 * AMD - 上海
-* ARM - 上海
-* Airbnb - 北京
 * Apple - 北京/上海
 * ArcSoft - 杭州
+* ARM - 上海
 * Autodesk - 北京/上海
 * Booking - 上海
 * Calix - 南京
 * Canva - 北京/武汉
-* Citrix - 南京
 * Cisco - 北京/上海/杭州/苏州
+* Citrix - 南京
 * Coolapk (酷安) - 北京/深圳
 * Coupang - 北京/上海
 * CSTC (花旗金融) - 上海
@@ -51,8 +51,8 @@
 * eHealth - 厦门
 * Electronic Arts - 上海
 * EMC - 上海
-* Ericsson - 上海
 * EPAM Systems - 上海/深圳/苏州/成都
+* Ericsson - 上海
 * Flexport - 上海/深圳
 * FreeWheel - 北京
 * GE - 上海
