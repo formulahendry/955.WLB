@@ -109,6 +109,7 @@ The list of companies below, which are basically not affiliated with 996, is rel
 * XMind - Shenzhen
 * Zhihu (知乎) - Beijing
 * Zoom - Hefei/Hangzhou/Suzhou
+* Okki (小满) - Shenzhen/Wuhan
 
 ## WeChat Mini Program
 
