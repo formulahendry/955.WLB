@@ -29,26 +29,29 @@ The list of companies below, which are basically not affiliated with 996, is rel
 ## 955 Companies List
 
 * Afterpay - Shanghai
+* Airbnb - Beijing
 * Amazon - Beijing/Shanghai
 * AMD - Shanghai
-* ARM - Shanghai
-* Airbnb - Beijing
 * Apple - Beijing/Shanghai
 * ArcSoft - Hangzhou
+* ARM - Shanghai
 * Autodesk - Beijing/Shanghai
 * Booking - Shanghai
 * Calix - Nanjing
-* Citrix - Nanjing
+* Canva - Beijing/Wuhan
 * Cisco - Beijing/Shanghai/Hangzhou/Suzhou
+* Citrix - Nanjing
 * Coolapk (酷安) - Beijing/Shenzhen
 * Coupang - Beijing/Shanghai
 * CSTC (花旗金融) - Shanghai
 * Dell - Shanghai
 * Douban (豆瓣) - Beijing
+* Duolingo - Beijing
 * eBay - Shanghai
 * eHealth - Xiamen
 * Electronic Arts - Shanghai
 * EMC - Shanghai
+* EPAM Systems - Shanghai/Shenzhen/Suzhou/Chengdu
 * Ericsson - Shanghai
 * Flexport - Shanghai/Shenzhen
 * FreeWheel - Beijing
@@ -61,16 +64,20 @@ The list of companies below, which are basically not affiliated with 996, is rel
 * Hulu - Beijing
 * IBM (except GBS) - Beijing/Shanghai
 * iHerb - Shanghai
-* Intel - Shanghai/Shenzhen
+* Intel - Beijing/Shanghai/Shenzhen
 * LeetCode - Shanghai
+* LEGO Group - Shanghai
 * Linkedin - Beijing
 * Micro Focus - Shanghai
 * Microsoft - Beijing/Shanghai/Suzhou
 * MicroStrategy - Hangzhou
 * Morgan Stanley (IT) - Shanghai
 * National Instruments - Shanghai
-* Nokia - Nanjing/Hangzhou
+* Nike - Shanghai
+* Nokia - Shanghai/Nanjing/Hangzhou
+* Nomura - Shanghai
 * NVIDIA - Beijing/Shanghai
+* Optiver - Shanghai
 * Oracle - Shanghai
 * PayPal - Shanghai
 * Philips - Shanghai/Suzhou
@@ -79,17 +86,19 @@ The list of companies below, which are basically not affiliated with 996, is rel
 * Rakuten - Shanghai/Dalian
 * Red Hat - Beijing/Shanghai/Shenzhen/Xi'an/Remote
 * RingCentral - Xiamen/Hangzhou/HongKong
+* Rippling - Beijing/Shanghai
 * SanDisk - Shanghai
 * SAP - Shanghai
-* Shopee - Beijing/Shanghai/Shenzhen
 * SmartNews - Beijing/Shanghai
 * Snap - Beijing/Shenzhen
 * State Street - Hangzhou
 * SUSE - Beijing/Shanghai/Shenzhen
+* The Trade Desk - Shanghai/Shenzhen
 * ThoughtWorks - Xi'an/Beijing/Shenzhen/Chengdu/Wuhan/Shanghai/HongKong
 * Trend Micro - Nanjing
 * Tubi - Beijing
 * TuSimple - Beijing/Shanghai
+* Two Sigma - Shanghai
 * Ubisoft - Shanghai
 * Unity - Shanghai
 * Vipshop (唯品会) - Shanghai
@@ -100,14 +109,6 @@ The list of companies below, which are basically not affiliated with 996, is rel
 * XMind - Shenzhen
 * Zhihu (知乎) - Beijing
 * Zoom - Hefei/Hangzhou/Suzhou
-
-Go to [vote_for_955_companies.md](./vote_for_955_companies.md) to vote.
-
-## Add Company
-
-Please click on the link below to vote or add a new company, I will handle it uniformly. Please add a new company, please indicate the place of work. If it is a domestic company, please add the company's Chinese name (for example: `Xiaomi (小米)`).
-
-[![Feature Requests](https://cloud.githubusercontent.com/assets/390379/10127973/045b3a96-6560-11e5-9b20-31a2032956b2.png)](http://feathub.com/formulahendry/955.WLB)
 
 ## WeChat Mini Program
 
