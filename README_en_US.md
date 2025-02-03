@@ -37,10 +37,12 @@ The list of companies below, which are basically not affiliated with 996, is rel
 * ARM - Shanghai
 * Autodesk - Beijing/Shanghai
 * Booking - Shanghai
+* Bosch Group - Shanghai/Suzhou/Wuxi
 * Calix - Nanjing
 * Canva - Beijing/Wuhan
 * Cisco - Beijing/Shanghai/Hangzhou/Suzhou
 * Citrix - Nanjing
+* Continental AG - Shanghai/Hefei
 * Coolapk (酷安) - Beijing/Shenzhen
 * Coupang - Beijing/Shanghai
 * CSTC (花旗金融) - Shanghai
@@ -65,6 +67,8 @@ The list of companies below, which are basically not affiliated with 996, is rel
 * IBM (except GBS) - Beijing/Shanghai
 * iHerb - Shanghai
 * Intel - Beijing/Shanghai/Shenzhen
+* JetBrains - Beijing/Shanghai
+* Kong - Shanghai
 * LeetCode - Shanghai
 * LEGO Group - Shanghai
 * Linkedin - Beijing
@@ -91,6 +95,7 @@ The list of companies below, which are basically not affiliated with 996, is rel
 * SAP - Shanghai
 * SmartNews - Beijing/Shanghai
 * Snap - Beijing/Shenzhen
+* Starbucks - Shanghai
 * State Street - Hangzhou
 * SUSE - Beijing/Shanghai/Shenzhen
 * The Trade Desk - Shanghai/Shenzhen

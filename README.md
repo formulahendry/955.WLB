@@ -37,10 +37,12 @@
 * ARM - 上海
 * Autodesk - 北京/上海
 * Booking - 上海
+* Bosch Group - 上海/苏州/无锡
 * Calix - 南京
 * Canva - 北京/武汉
 * Cisco - 北京/上海/杭州/苏州
 * Citrix - 南京
+* Continental AG - 上海/合肥
 * Coolapk (酷安) - 北京/深圳
 * Coupang - 北京/上海
 * CSTC (花旗金融) - 上海
@@ -65,6 +67,8 @@
 * IBM (GBS除外) - 北京/上海
 * iHerb - 上海
 * Intel - 北京/上海/深圳
+* JetBrains - 北京/上海
+* Kong - 上海
 * LeetCode - 上海
 * LEGO Group - 上海
 * Linkedin - 北京
@@ -91,6 +95,7 @@
 * SAP - 上海
 * SmartNews - 北京/上海
 * Snap - 北京/深圳
+* Starbucks - 上海
 * State Street - 杭州
 * SUSE - 北京/上海/深圳
 * The Trade Desk - 上海/深圳
