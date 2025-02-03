@@ -98,8 +98,8 @@
 * Starbucks - 上海
 * State Street - 杭州
 * SUSE - 北京/上海/深圳
+* [/thoughtworks](https://www.thoughtworks.com/zh-cn) - 西安/北京/深圳/成都/武汉/上海/香港
 * The Trade Desk - 上海/深圳
-* ThoughtWorks - 西安/北京/深圳/成都/武汉/上海/香港
 * Trend Micro - 南京
 * Tubi - 北京
 * TuSimple - 北京/上海
