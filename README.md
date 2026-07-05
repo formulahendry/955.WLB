@@ -104,6 +104,7 @@
 * Tubi - 北京
 * TuSimple - 北京/上海
 * Two Sigma - 上海
+* Thermofisher - 上海/成都
 * Ubisoft - 上海
 * Unity - 上海
 * Vipshop (唯品会) - 上海

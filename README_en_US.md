@@ -104,6 +104,7 @@ The list of companies below, which are basically not affiliated with 996, is rel
 * Tubi - Beijing
 * TuSimple - Beijing/Shanghai
 * Two Sigma - Shanghai
+* Thermofisher - Shanghai/Chengdu
 * Ubisoft - Shanghai
 * Unity - Shanghai
 * Vipshop (唯品会) - Shanghai
