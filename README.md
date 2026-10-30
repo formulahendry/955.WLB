@@ -40,6 +40,7 @@
 * Bosch Group - 上海/苏州/无锡
 * Calix - 南京
 * Canva - 北京/武汉
+* Checkout.com - 上海
 * Cisco - 北京/上海/杭州/苏州
 * Citrix - 南京
 * Continental AG - 上海/合肥
