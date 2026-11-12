@@ -73,7 +73,6 @@ The list of companies below, which are basically not affiliated with 996, is rel
 * LEGO Group - Shanghai
 * Linkedin - Beijing
 * Micro Focus - Shanghai
-* Microsoft - Beijing/Shanghai/Suzhou
 * MicroStrategy - Hangzhou
 * Morgan Stanley (IT) - Shanghai
 * National Instruments - Shanghai
