@@ -73,7 +73,6 @@
 * LEGO Group - 上海
 * Linkedin - 北京
 * Micro Focus - 上海
-* Microsoft - 北京/上海/苏州
 * MicroStrategy - 杭州
 * Morgan Stanley (IT) - 上海
 * National Instruments - 上海
